@@ -6,8 +6,8 @@
   "main": "src/index.tsx",
   "dependencies": {
     "babel-eslint": "^10.1.0",
-    "react": "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react",
-    "react-dom": "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react-dom",
+    "react": "https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/react",
+    "react-dom": "https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/react-dom",
     "react-scripts": "5.0.1"
   },
   "devDependencies": {

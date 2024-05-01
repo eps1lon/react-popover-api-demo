@@ -7662,11 +7662,11 @@ react-dev-utils@^12.0.1:
     strip-ansi "^6.0.1"
     text-table "^0.2.0"
 
-"react-dom@https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react-dom":
-  version "0.0.0-experimental-83f60b1080-20240501"
-  resolved "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react-dom#2487cceef8286f77efbf9bd52b11d7e7bb7b8c39"
+"react-dom@https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/react-dom":
+  version "0.0.0-experimental-29b66a538d-20240501"
+  resolved "https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/react-dom#9a005028e0eb2e13e52809bc11ea42bbd2df120e"
   dependencies:
-    scheduler "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/scheduler"
+    scheduler "https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/scheduler"
 
 react-error-overlay@^6.0.11:
   version "6.0.11"
@@ -7748,9 +7748,9 @@ react-scripts@5.0.1:
   optionalDependencies:
     fsevents "^2.3.2"
 
-"react@https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react":
-  version "0.0.0-experimental-83f60b1080-20240501"
-  resolved "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react#7a3965809d1768bca38f150ec2321345c83e31b4"
+"react@https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/react":
+  version "0.0.0-experimental-29b66a538d-20240501"
+  resolved "https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/react#982f90ccb02c19750ae7cca1d1eb32f6ef6ad7d4"
 
 read-cache@^1.0.0:
   version "1.0.0"
@@ -8053,9 +8053,9 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-"scheduler@https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/scheduler":
-  version "0.0.0-experimental-83f60b1080-20240501"
-  resolved "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/scheduler#ea43e6141bff2bd1c7ac0b42e1ba4fcfbbfc8f0d"
+"scheduler@https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/scheduler":
+  version "0.0.0-experimental-29b66a538d-20240501"
+  resolved "https://react-builds.vercel.app/api/commits/29b66a538dfca92616c145c811f810ca2987ae29/packages/scheduler#c95c92c8c74a0095ef4b74ee65a1094c59a51a7d"
 
 schema-utils@2.7.0:
   version "2.7.0"

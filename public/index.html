@@ -32,6 +32,10 @@
   <h2>React</h2>
 	<div id="root"></div>
   <h2>HTML</h2>
+  <details  ontoggle="console.log('toggle', event)" onbeforetoggle="console.log('beforetoggle', event)">
+    <summary>Summary</summary>
+    Details
+  </details>
   <button popovertarget="html-mypopover">Toggle the popover</button>
   <div id="html-mypopover" popover="auto" ontoggle="console.log('toggle', event)" onbeforetoggle="console.log('beforetoggle', event)">
     Popover content
