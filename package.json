@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "babel-eslint": "^10.1.0",
     "react": "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react",
     "react-dom": "https://react-builds.vercel.app/api/commits/83f60b10803a792a11afdc20489704ae4c805acd/packages/react-dom",
     "react-scripts": "5.0.1"
@@ -21,5 +22,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
